@@ -1,7 +1,7 @@
 
 
-AverageDataSet.txt average the he Human Activity Recognition Using Smartphones
-Data Set features for each Activity an subject
+The variables in AverageDataSet.txt are the average of the "Human Activity Recognition Using Smartphones
+Data Set" features for each Activity an Subject.
 
 
 "Activity" 						:Activity: 1 WALKING 2 WALKING_UPSTAIRS 3 WALKING_DOWNSTAIRS 4 SITTING 5 STANDING 6 LAYING
